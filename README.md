@@ -27,3 +27,6 @@ Along with GCP services, this project also uses `TFX(TensorFlow Extended)` and `
 - [ ] Write codes to rank searching results
 - [ ] Write codes to send an email
 - [ ] Integrate logics with GitHub Action
+
+# Acknoledgement
+> "Google supported this work by providing Google Cloud credit"
